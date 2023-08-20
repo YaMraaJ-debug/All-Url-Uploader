@@ -102,10 +102,9 @@ python3 bot.py
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/kalanakt/All-Url-Uploader
+git clone https://github.com/Mohanish7777777/All-Url-Uploader
 cd All-Url-Uploader
 pip3 install -U -r requirements.txt
-# Edit Uploader/config.py with variables.
 python3 bot.py
 </pre>
 </p>
